@@ -1,0 +1,1 @@
+Projeto feito acompanhando a imersão FrontEnd da Alura, replicando a pagina inicial do Spotify.
